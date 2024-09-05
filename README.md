@@ -40,6 +40,7 @@
 
 **GitProfile** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and GitProfile will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
 
+1
 **Features:**
 
 ✓ [Easy to Setup](#-installation--setup)  
